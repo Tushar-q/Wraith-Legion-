@@ -1,2 +1,0 @@
-this is aftermath, our ai tool to detect the exact error in your application.
-we hope you like it.
