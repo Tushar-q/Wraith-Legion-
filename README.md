@@ -1,2 +1,2 @@
-# Wraith-Legion-
+# Wraith-Legion
 Devjams '26
